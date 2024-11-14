@@ -36,7 +36,7 @@
     {
       "name": "Study of properties of Linear Time-Invariant System",
       "short-name": "linear-time-invariant",
-      "repo": "https://github.com/virtual-labs/exp-linear-time-invariant-iitkgpp",
+      "repo": "https://github.com/virtual-labs/exp-linear-time-invariant-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
